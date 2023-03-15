@@ -11,6 +11,20 @@
 		F90221A729C1FD37005552EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221A629C1FD37005552EC /* ContentView.swift */; };
 		F90221A929C1FD3B005552EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F90221A829C1FD3B005552EC /* Assets.xcassets */; };
 		F90221AC29C1FD3B005552EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F90221AB29C1FD3B005552EC /* Preview Assets.xcassets */; };
+		F90221BB29C1FE0E005552EC /* CharactersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221BA29C1FE0E005552EC /* CharactersView.swift */; };
+		F90221BF29C1FE20005552EC /* CharactersListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221BE29C1FE20005552EC /* CharactersListView.swift */; };
+		F90221C129C1FE21005552EC /* CharactersGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221C029C1FE21005552EC /* CharactersGridView.swift */; };
+		F90221C329C1FE23005552EC /* CharactersDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221C229C1FE23005552EC /* CharactersDetailView.swift */; };
+		F90221C729C1FE2F005552EC /* ElixirStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221C429C1FE2F005552EC /* ElixirStruct.swift */; };
+		F90221C829C1FE2F005552EC /* ElixirDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221C529C1FE2F005552EC /* ElixirDetailView.swift */; };
+		F90221C929C1FE2F005552EC /* ElixirsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221C629C1FE2F005552EC /* ElixirsView.swift */; };
+		F90221D129C1FE46005552EC /* SpellsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221CB29C1FE45005552EC /* SpellsDetailView.swift */; };
+		F90221D229C1FE46005552EC /* SpellStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221CE29C1FE45005552EC /* SpellStruct.swift */; };
+		F90221D329C1FE46005552EC /* HousesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221CF29C1FE45005552EC /* HousesDetailView.swift */; };
+		F90221D429C1FE46005552EC /* HousesStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221CC29C1FE45005552EC /* HousesStruct.swift */; };
+		F90221D529C1FE46005552EC /* SpellsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221D029C1FE46005552EC /* SpellsView.swift */; };
+		F90221D629C1FE46005552EC /* CharacterStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221CA29C1FE45005552EC /* CharacterStruct.swift */; };
+		F90221D729C1FE46005552EC /* HousesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90221CD29C1FE45005552EC /* HousesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		F90221A629C1FD37005552EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F90221A829C1FD3B005552EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F90221AB29C1FD3B005552EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F90221BA29C1FE0E005552EC /* CharactersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersView.swift; sourceTree = "<group>"; };
+		F90221BE29C1FE20005552EC /* CharactersListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersListView.swift; sourceTree = "<group>"; };
+		F90221C029C1FE21005552EC /* CharactersGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersGridView.swift; sourceTree = "<group>"; };
+		F90221C229C1FE23005552EC /* CharactersDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersDetailView.swift; sourceTree = "<group>"; };
+		F90221C429C1FE2F005552EC /* ElixirStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElixirStruct.swift; sourceTree = "<group>"; };
+		F90221C529C1FE2F005552EC /* ElixirDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElixirDetailView.swift; sourceTree = "<group>"; };
+		F90221C629C1FE2F005552EC /* ElixirsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElixirsView.swift; sourceTree = "<group>"; };
+		F90221CA29C1FE45005552EC /* CharacterStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterStruct.swift; sourceTree = "<group>"; };
+		F90221CB29C1FE45005552EC /* SpellsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpellsDetailView.swift; sourceTree = "<group>"; };
+		F90221CC29C1FE45005552EC /* HousesStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HousesStruct.swift; sourceTree = "<group>"; };
+		F90221CD29C1FE45005552EC /* HousesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HousesView.swift; sourceTree = "<group>"; };
+		F90221CE29C1FE45005552EC /* SpellStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpellStruct.swift; sourceTree = "<group>"; };
+		F90221CF29C1FE45005552EC /* HousesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HousesDetailView.swift; sourceTree = "<group>"; };
+		F90221D029C1FE46005552EC /* SpellsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpellsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +79,12 @@
 		F90221A329C1FD37005552EC /* WizardingWorld */ = {
 			isa = PBXGroup;
 			children = (
-				F90221A429C1FD37005552EC /* WizardingWorldApp.swift */,
 				F90221A629C1FD37005552EC /* ContentView.swift */,
+				F90221A429C1FD37005552EC /* WizardingWorldApp.swift */,
+				F90221D829C20A4D005552EC /* Elixir */,
+				F90221D929C20A69005552EC /* Characters */,
+				F90221DA29C20A77005552EC /* Houses */,
+				F90221DB29C20A83005552EC /* Spells */,
 				F90221A829C1FD3B005552EC /* Assets.xcassets */,
 				F90221AA29C1FD3B005552EC /* Preview Content */,
 			);
@@ -65,6 +97,48 @@
 				F90221AB29C1FD3B005552EC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F90221D829C20A4D005552EC /* Elixir */ = {
+			isa = PBXGroup;
+			children = (
+				F90221C529C1FE2F005552EC /* ElixirDetailView.swift */,
+				F90221C429C1FE2F005552EC /* ElixirStruct.swift */,
+				F90221C629C1FE2F005552EC /* ElixirsView.swift */,
+			);
+			path = Elixir;
+			sourceTree = "<group>";
+		};
+		F90221D929C20A69005552EC /* Characters */ = {
+			isa = PBXGroup;
+			children = (
+				F90221C029C1FE21005552EC /* CharactersGridView.swift */,
+				F90221CA29C1FE45005552EC /* CharacterStruct.swift */,
+				F90221BE29C1FE20005552EC /* CharactersListView.swift */,
+				F90221C229C1FE23005552EC /* CharactersDetailView.swift */,
+				F90221BA29C1FE0E005552EC /* CharactersView.swift */,
+			);
+			path = Characters;
+			sourceTree = "<group>";
+		};
+		F90221DA29C20A77005552EC /* Houses */ = {
+			isa = PBXGroup;
+			children = (
+				F90221CF29C1FE45005552EC /* HousesDetailView.swift */,
+				F90221CC29C1FE45005552EC /* HousesStruct.swift */,
+				F90221CD29C1FE45005552EC /* HousesView.swift */,
+			);
+			path = Houses;
+			sourceTree = "<group>";
+		};
+		F90221DB29C20A83005552EC /* Spells */ = {
+			isa = PBXGroup;
+			children = (
+				F90221CB29C1FE45005552EC /* SpellsDetailView.swift */,
+				F90221CE29C1FE45005552EC /* SpellStruct.swift */,
+				F90221D029C1FE46005552EC /* SpellsView.swift */,
+			);
+			path = Spells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +212,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				F90221A729C1FD37005552EC /* ContentView.swift in Sources */,
+				F90221C929C1FE2F005552EC /* ElixirsView.swift in Sources */,
+				F90221D329C1FE46005552EC /* HousesDetailView.swift in Sources */,
+				F90221BF29C1FE20005552EC /* CharactersListView.swift in Sources */,
+				F90221D629C1FE46005552EC /* CharacterStruct.swift in Sources */,
 				F90221A529C1FD37005552EC /* WizardingWorldApp.swift in Sources */,
+				F90221C129C1FE21005552EC /* CharactersGridView.swift in Sources */,
+				F90221C829C1FE2F005552EC /* ElixirDetailView.swift in Sources */,
+				F90221BB29C1FE0E005552EC /* CharactersView.swift in Sources */,
+				F90221D229C1FE46005552EC /* SpellStruct.swift in Sources */,
+				F90221C329C1FE23005552EC /* CharactersDetailView.swift in Sources */,
+				F90221D129C1FE46005552EC /* SpellsDetailView.swift in Sources */,
+				F90221D529C1FE46005552EC /* SpellsView.swift in Sources */,
+				F90221D729C1FE46005552EC /* HousesView.swift in Sources */,
+				F90221C729C1FE2F005552EC /* ElixirStruct.swift in Sources */,
+				F90221D429C1FE46005552EC /* HousesStruct.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
